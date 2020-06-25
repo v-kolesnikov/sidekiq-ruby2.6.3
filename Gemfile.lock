@@ -3,7 +3,7 @@ GEM
   specs:
     connection_pool (2.2.2)
     hiredis (0.6.3)
-    rack (2.0.7)
+    rack (2.2.3)
     rack-protection (2.0.5)
       rack
     redis (4.1.2)
